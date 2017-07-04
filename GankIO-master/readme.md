@@ -1,4 +1,4 @@
-基于 Material Design，使用 MVP + RxJava + Retrofit + ButterKnife 开发干货集中营客户端，接口由[干货集中营](http://gank.io/)提供，非常感谢~
+基于 Material Design，使用 MVP + RxJava + Retrofit + ButterKnife 开发干货集中营客户端，接口由[动脑学院，验证码022](https://shang.qq.com/wpa/qunwpa?idkey=4310b023aa9a592a667889be958934a341cf5d062ed93a41402a5fddc9056281)提供
 
 ![运行效果](gank.gif)
 
@@ -25,9 +25,9 @@
 5. 适配
 
 ## 注意
-如果大家在使用过程中出现问题，欢迎提交 issue 或发邮件给我，我会尽快处理
+如果大家在使用过程中出现问题，欢迎提交 issue 或在群里咨询我，我会尽快处理
 
-Gmail:1025263614lsj@gmail.com
+QQ：504943335
 
 ## 许可
 > Copyright 2017 littlejie
